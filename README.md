@@ -20,8 +20,6 @@
 
 ### 🛠️ DevOps Tools & Technologies  
 
-### 🛠️ DevOps Tools & Technologies  
-
 <p align="center">
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60" title="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" title="GitLab"/>
