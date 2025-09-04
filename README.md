@@ -1,78 +1,81 @@
-# Hello Dosto
+<!-- Profile README -->
+
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>  
+  Muhammad Burhan Shahzad  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" width="40"/>
+</h1>
+
+<h3 align="center">🚀 Aspiring DevOps Engineer | Software Engineer | Tech Enthusiast</h3>
 
 ---
 
-## About Me
-
-I'm a [Your Role, e.g., DevOps Enthusiast / Student / Developer] from Karachi, Pakistan.  
-Passionate about Cloud, DevOps, and Platform Engineering. Always exploring emerging technologies and best practices.  
-Seeking collaboration on open-source and DevOps initiatives.  
-Ask me about Python, AWS, Docker, Kubernetes, GitHub Actions.  
-⚡ Fun fact: I love sharing knowledge and building cool projects.
+### 👨‍💻 About Me  
+- 🎓 Final Year Software Engineering Student at **Bahria University Karachi**  
+- 🌩️ Exploring **DevOps, Cloud, and AI-driven development**  
+- 🛠️ Passionate about **automation, scalable apps, and modern development tools**  
+- 🌍 Always open to **collaborations & internships** in DevOps and Software Engineering  
 
 ---
 
-##  Tech Stack
+### 🛠️ DevOps Tools & Technologies  
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### 🛠️ DevOps Tools & Technologies  
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60" title="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" title="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="60" title="Ansible"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" width="70" title="Apache"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux"/>
+</p>
 
-### Databases & Monitoring
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
 
-##  GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+### 💻 Development Stack  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/>
+</p>
 
 ---
 
-##  GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true)
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhanShahzad&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanShahzad&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-##  GitHub Trophies
-<!-- Add GitHub trophies card embed code -->
+### 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:burishahzada7728@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" title="Email"/>
+  </a>
+  <a href="https://github.com/MuhammadBurhanShahzad">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" title="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/burhan01/">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" title="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/tg_burhan?igsh=MXYwaXZ3amtvMGMxOQ==">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" title="Instagram"/>
+  </a>
+</p>
 
 ---
-
-##  Activity Graph
-<!-- Add activity graph embed code if used -->
-
----
-
-##  Connect With Me
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](YourWebsiteURL)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YourLinkedInURL)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](YourInstagramURL)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YourEmail)
-
----
-
-### "Building the future, one deployment at a time"
-
----
-
-<!-- Add profile views/followers embedded visualization if desired -->
-
----
-
-##  Pinned Projects
-
-- **Project Title 1** – short description  
-- **Project Title 2** – short description  
-- **Project Title 3** – short description
+⭐️ *Crafted with passion by Muhammad Burhan Shahzad*
