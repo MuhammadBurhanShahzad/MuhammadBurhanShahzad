@@ -64,8 +64,8 @@
   <a href="mailto:burishahzada7728@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" title="Email"/>
   </a>
-  <a href="https://github.com/MuhammadBurhanShahzad">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" title="GitHub"/>
+ <a href="https://github.com/MuhammadBurhanShahzad">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" title="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/burhan01/">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" title="LinkedIn"/>
@@ -76,4 +76,4 @@
 </p>
 
 ---
-⭐️ *Crafted with passion by Muhammad Burhan Shahzad*
+
