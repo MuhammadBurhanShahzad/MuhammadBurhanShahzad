@@ -75,10 +75,10 @@ Open to connecting with engineers and teams building sustainable AI infrastructu
 
 ---
 
-### 📊 GitHub Insights
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhanShahzad&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=MuhammadBurhanShahzad&theme=dark" />
 </p>
 
 
