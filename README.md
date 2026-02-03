@@ -75,15 +75,9 @@ Open to connecting with engineers and teams building sustainable AI infrastructu
 
 ---
 
-### 📊 My GitHub Journey
-
+### 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhanShahzad&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanShahzad&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBurhanShahzad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/MuhammadBurhanShahzad/MuhammadBurhanShahzad/output/github-contribution-grid-snake.svg" />
 </p>
 
 
