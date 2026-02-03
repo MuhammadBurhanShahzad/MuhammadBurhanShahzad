@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+%7C+Scalable+Systems;Software+Engineer+with+DevOps+Mindset;Building+Reliable+and+Production-Ready+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;DevSecOps+Engineer;FinOps+Engineer;;Cloud+%7C+Automation+%7C+Scalable+Systems;Software+Engineer+with+DevOps+Mindset;Building+Reliable+and+Production-Ready+Systems" />
 </p>
 
 
@@ -18,11 +18,19 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Final Year Software Engineering Student at **Bahria University Karachi**  
-- 🌩️ Focused on **DevOps, Cloud Computing, and AI-driven systems**  
-- 🛠️ Passionate about **automation, CI/CD, scalable architectures, and cloud-native apps**  
-- 🌍 Open to **DevOps internships, junior roles, and collaborations**
+Software Engineer focused on scaling AI systems without excessive cloud costs
 
+Bridging LLMOps and FinOps to build cost-efficient, production-ready AI infrastructure
+
+Designing RAG systems, vector databases, and practical AI pipelines
+
+Automating cloud workflows with a focus on performance, reliability, and cost control
+
+Hands-on experience with Kubernetes, AWS, CI/CD, and cloud-native tooling
+
+Final Year Software Engineering student at Bahria University
+
+Open to connecting with engineers and teams building sustainable AI infrastructure
 ---
 
 ### 🛠️ DevOps Tools & Technologies  
@@ -69,10 +77,9 @@
 ---
 
 ### 📊 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhanShahzad&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanShahzad&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBurhanShahzad&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBurhanShahzad&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
