@@ -75,11 +75,12 @@ Open to connecting with engineers and teams building sustainable AI infrastructu
 
 ---
 
-### 📊 GitHub Activity
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/MuhammadBurhanShahzad" />
+  <img src="https://github.com/MuhammadBurhanShahzad/MuhammadBurhanShahzad/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
