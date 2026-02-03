@@ -50,7 +50,7 @@ Open to connecting with engineers and teams building sustainable AI infrastructu
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBurhanShahzad&theme=react-dark&area=true&hide_border=true" width="100%" alt="GitHub Contributions" />
@@ -75,10 +75,8 @@ Open to connecting with engineers and teams building sustainable AI infrastructu
 
 ---
 
-### 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github.com/MuhammadBurhanShahzad/MuhammadBurhanShahzad/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MuhammadBurhanShahzad/MuhammadBurhanShahzad/output/github-contribution-grid-snake.svg" />
 </p>
 
 
