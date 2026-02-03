@@ -6,20 +6,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" width="40"/>
 </h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=22
-    &pause=1000
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Aspiring+DevOps+Engineer;
-    Cloud+%7C+Automation+%7C+Scalable+Systems;
-    Software+Engineer+with+DevOps+Mindset;
-    Building+Reliable+and+Production-Ready+Systems
-  " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+%7C+Scalable+Systems;Software+Engineer+with+DevOps+Mindset;Building+Reliable+and+Production-Ready+Systems" />
 </p>
+
+
 
 <h3 align="center">🚀 Aspiring DevOps Engineer | Software Engineer | Tech Enthusiast</h3>
 
