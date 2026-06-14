@@ -17,17 +17,39 @@
 ---
 
 ### 👨‍💻 About Me  
-🧠 Software Engineer · DevOps & MLOps
-Obsessed with one problem: scaling AI without the massive cloud bill.
 
-🔭 Bridging LLMOps and FinOps — building infrastructure that's powerful and cost-efficient
-⚙️  Kubernetes · AWS · Terraform · CI/CD · Prometheus · Grafana
-🚀 Shipped a production-grade MLOps platform with full observability stack
-📄 Co-authored research on AI Agent systems (IEEE format)
-🎓 Fresh Graduate — Bahria University, Software Engineering 2026
+Software Engineer focused on **DevOps & MLOps** — obsessed with one problem:
+> *Scaling AI without the massive cloud bill.*
 
-📬 Open to Junior DevOps / MLOps / Cloud roles
-🔗 linkedin.com/in/burhan01
+---
+
+## ⚙️ Core Stack
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+
+---
+
+## 🚀 Highlights
+
+- 🔭 Bridging **LLMOps & FinOps** — building infrastructure that's powerful and cost-efficient
+- 📦 Shipped a production-grade **MLOps platform** with full observability stack
+- 📄 Co-authored research on **AI Agent systems** (IEEE format)
+- 🎓 Fresh Graduate — Bahria University, Software Engineering 2026
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-burhan01-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/burhan01)
+
+> Open to **Junior DevOps / MLOps / Cloud** roles
 ---
 
 ### 🛠️ DevOps Tools & Technologies  
