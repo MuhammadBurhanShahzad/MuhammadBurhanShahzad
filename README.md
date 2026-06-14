@@ -17,19 +17,17 @@
 ---
 
 ### 👨‍💻 About Me  
-Software Engineer focused on scaling AI systems without excessive cloud costs
+🧠 Software Engineer · DevOps & MLOps
+Obsessed with one problem: scaling AI without the massive cloud bill.
 
-Bridging LLMOps and FinOps to build cost-efficient, production-ready AI infrastructure
+🔭 Bridging LLMOps and FinOps — building infrastructure that's powerful and cost-efficient
+⚙️  Kubernetes · AWS · Terraform · CI/CD · Prometheus · Grafana
+🚀 Shipped a production-grade MLOps platform with full observability stack
+📄 Co-authored research on AI Agent systems (IEEE format)
+🎓 Fresh Graduate — Bahria University, Software Engineering 2026
 
-Designing RAG systems, vector databases, and practical AI pipelines
-
-Automating cloud workflows with a focus on performance, reliability, and cost control
-
-Hands-on experience with Kubernetes, AWS, CI/CD, and cloud-native tooling
-
-Final Year Software Engineering student at Bahria University
-
-Open to connecting with engineers and teams building sustainable AI infrastructure
+📬 Open to Junior DevOps / MLOps / Cloud roles
+🔗 linkedin.com/in/burhan01
 ---
 
 ### 🛠️ DevOps Tools & Technologies  
