@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>  
   Muhammad Burhan Shahzad  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" width="40"/>
+  
 </h1>
 
 
