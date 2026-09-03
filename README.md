@@ -73,7 +73,7 @@ Software Engineer focused on **DevOps & MLOps** — obsessed with one problem:
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBurhanShahzad&theme=react-dark&area=true&hide_border=true" width="100%" alt="GitHub Contributions" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBurhanShahzad&theme=react-dark&area=true&hide_border=true" width="100%" alt="GitHub Contributions](https://streak-stats.demolab.com/?user=MuhammadBurhanShahzad&theme=react-dark&hide_border=true)" />
 </p>
 
 ---
